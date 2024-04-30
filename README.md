@@ -9,7 +9,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/NameRschool/Store-React.git
+   git clone https://github.com/NameRschool/Stationery-Shop-Website.git
    cd stationery-shop-website
    ```
 
